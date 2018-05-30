@@ -1,0 +1,1 @@
+本项目记录搭建kubernetes环境的全部步骤，在搭建过程中能够对kubernetes有更深入的理解，同时方便以后搭建kubernetes环境的参考。
